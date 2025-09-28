@@ -1,7 +1,7 @@
 > [!WARNING]
 > 由于出现很多复制下载此存储库后又重新上传发布冒充的情况
 > 
-> 源项目所属去前期 【FGODailyBonus -> FGO-Daily-Login -> F-D-L】
+> 源项目所属去前期前期 【FGODailyBonus -> FGO-Daily-Login -> F-D-L】
 > 
 > 特此提醒，使用本存储库以外类似存储库的代码前，应检查代码是存在否异常行为防止出现盗号和其它损失！
 
